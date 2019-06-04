@@ -1,0 +1,6 @@
+client\soapClient.class
+classes\ProductCatalogPortBindingStub.class
+classes\ProductCatalogProxy.class
+classes\ProductCatalog.class
+classes\ProductCatalogService.class
+classes\ProductCatalogServiceLocator.class
